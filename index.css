@@ -1,0 +1,75 @@
+/*this section is for the navbar only*/
+.topnav {
+  overflow: hidden;
+}
+/* the po/sition of the nav and the text which is at the end of the navbar8*/ 
+.topnav a  {
+  float: left;
+  color: grey;
+  text-align: end;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+/*this section shows the hover color over nav writing*/
+.topnav a:hover {
+  background-color: blue;
+  color: rgb(34, 6, 136);
+
+}
+/* This section is for welcome part*/
+
+header{
+  text-align: end;
+  background-image:url(color/color3.jpg);
+  background-repeat: no-repeat;
+  background-size: 1300px 600px;
+  padding:200px 16px;
+  margin:auto;
+}
+/*this section is for the afkanerd writings*/
+.one{
+  font-size: 100px;
+  color: blue;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: lighter;
+}
+/*the writing under the big afkanerd*/
+.two{
+  font-size: 20px;
+  color: rgb(8, 8, 1);
+  text-align: end;
+  font-family: Tahoma, Verdana, sans-serif;
+  ;
+}
+/* my first grid. immitaitly after the big afkanerd at he beginning*/
+.first{
+  text-align: center;
+  padding:200px 16px;
+  margin:auto;
+}
+
+/*content of the second grid, two stepdown father the big afkanerd*/
+.second{
+  padding:200px 16px;
+  margin:auto;
+}
+
+/*the third grid design, 3 step after the big afkanerd*/
+.third{
+  padding:200px 16px;
+  margin:auto;
+}
+
+/* footer design here*/
+footer{
+  background-color: black;
+  padding: 40px;
+  text-align: center;
+  opacity: ;
+}
+/* for the writing in the footer*/
+.font{
+  color:white;
+}
